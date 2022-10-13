@@ -6,7 +6,7 @@ import Home from "./components/Home/Home";
 import MovieDetail from "./components/MovieDetail/MovieDetail";
 import PageNotFound from "./components/PageNotFound/PageNotFound";
 import "./App.scss";
-import MovieListing from "./components/MovieListing/MovieListing";
+// import MovieListing from "./components/MovieListing/MovieListing";
 function App() {
   return (
     <div className="app">
